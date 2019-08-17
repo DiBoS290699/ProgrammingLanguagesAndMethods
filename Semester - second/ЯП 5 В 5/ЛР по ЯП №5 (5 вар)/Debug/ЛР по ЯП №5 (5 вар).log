@@ -1,0 +1,4 @@
+﻿  ЛР по ЯП №5 (5 вар).cpp
+c:\users\dibos\source\repos\яп 5 в 5\лр по яп №5 (5 вар)\date.h(104): warning C4715: Date::operator=: значение возвращается не при всех путях выполнения
+c:\users\dibos\source\repos\яп 5 в 5\лр по яп №5 (5 вар)\date.h(51): warning C4715: Date::DayNumber: значение возвращается не при всех путях выполнения
+  ЛР по ЯП №5 (5 вар).vcxproj -> C:\Users\DiBoS\source\repos\ЯП 5 В 5\Debug\ЛР по ЯП №5 (5 вар).exe

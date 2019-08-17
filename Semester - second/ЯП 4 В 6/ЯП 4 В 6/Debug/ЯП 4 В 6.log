@@ -1,0 +1,6 @@
+﻿  ЯП 4 В 6.cpp
+c:\users\dibos\source\repos\яп 4 в 6\яп 4 в 6\яп 4 в 6.cpp(122): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\dibos\source\repos\яп 4 в 6\яп 4 в 6\яп 4 в 6.cpp(187): warning C4715: almostpush: значение возвращается не при всех путях выполнения
+c:\users\dibos\source\repos\яп 4 в 6\яп 4 в 6\яп 4 в 6.cpp(208): warning C4715: reversepush: значение возвращается не при всех путях выполнения
+c:\users\dibos\source\repos\яп 4 в 6\яп 4 в 6\яп 4 в 6.cpp(150): warning C4715: randpush: значение возвращается не при всех путях выполнения
+  ЯП 4 В 6.vcxproj -> C:\Users\DiBoS\source\repos\ЯП 4 В 6\Debug\ЯП 4 В 6.exe
